@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>currículo</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        header{
+            background-color: #3e0170;
+            color: white;
+            padding: 1px 0;
+            text-align: center;
+            font-family:Georgia, 'Times New Roman', Times, serif;
+        }
+        ul{
+            list-style-type: none;
+
+            padding: 15px;
+            text-align: center;
+        }
+        h3{
+            color: #3e0170;
+            text-align: center;
+        }
+        h2{
+            color: #3e0170;
+            text-align: center;
+        }
+        p{
+            text-align: center;
+        }
+        img{
+            width: 200px;
+            height: 200px;;
+            border-radius: 50%;
+            background-color: #000000;
+            margin: 0 auto;
+            display: block;
+        }
+        p{
+            font-size: 20px;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            color: #000000;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Terry Alan Crews</h1>
+    </header> 
+    <main>
+        <section>
+            <h1>
+            <img src="https://s2-gq.glbimg.com/YrBOWAyC76V1O4kqNJsVmQdD3Bk=/0x0:1440x1799/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_71a8fe14ac6d40bd993eb59f7203fe6f/internal_photos/bs/2024/O/s/z81VVsTJmOdnqAIQ8nXQ/terrycrews-457319115-18454831255054494-793291375109624242-n.jpg" alt="img" width="1900" height="500">
+        </h1>
+            <h2>Experiência</h2>
+            <div>
+                <h3>Durante a formação academica</h3>
+                <ul>
+                    <li>Jogou na linha de defesa dos WMU Broncos na universidade </li>
+                    <li>Foi escolhido pelo Los Angeles Rams na 11ª rodada do Draft da NFL de 1991 </li>
+                    <li>Também jogou pelo San Diego Chargers e Washington Redskins</li>
+                    <li>Jogou pelo Rhein Fire da Alemanha durante a temporada de 1995 da WLAF </li>
+                </ul>
+            </div>
+
+            <div>
+                <h3>Experiência profissional</h3>
+                <ul>
+                    <li>Participou do filme Young Boys Inc., de 1998</li>
+                    <li>Participou do filme O Sexto Dia, de 2000, com Arnold Schwarzenegger</li>
+                    <li>Participou do filme As Branquelas, de 2004, com Adam Sandler e Chris Rock</li>
+                    <li>Interpretou Julius, o pai de Chris, na série Todo Mundo Odeia o Chris
+                    </li>
+                </ul>
+            </div>
+
+            <div>
+                <h3>Complementares</h3>
+                <ul>
+                    <li>Participou de CSI: Miami</li>
+                    <li>Participou de Brooklyn Nine-Nine</li>
+                    <li>Participou de America's Got Talent</li>
+                    <li>Participou de Eu, a Patroa e as Crianças</li>
+                </ul>
+            </div>
+        </section>
+
+        <section>
+            </div>
+            <div>
+                <h2>Informações pessoais</h2>
+                <p>
+                    <ul>
+                        <li>data de nascimento: 30 de julho de 1968 (56 anos)</li>
+                        <li>Nascido em Flint, Michigan(EUA)</li>
+                        <li></li>
+                        <li></li>
+                    </ul>
+                </p>
+            </div>
+        </section>
+    </main>
+</body>
+
+</html>
